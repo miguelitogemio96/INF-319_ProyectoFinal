@@ -1,0 +1,38 @@
+{% extends 'basic.html' %}
+
+{% block content %}
+
+<h1>Lista SUma de Pares</h1>
+<form action="lpar" method="POST">
+    {% csrf_token %}
+
+    Ingrese la lista en formato: "1 2,3 4,5 6" <input type="text" name="num1"><br><br>
+    <input type="submit">
+</form>
+
+<h1>Calcular hora en base a Segundos</h1>
+<form action="hora" method="POST">
+    {% csrf_token %}
+
+    Ingrese los segundos: <input type="text" name="num1"><br><br>
+    <input type="submit">
+</form>
+
+<h1>Reversa</h1>
+<form action="rev" method="POST">
+    {% csrf_token %}
+
+    Ingrese la lista en formato "1,2,3,4,5": <input type="text" name="num1"><br><br>
+    <input type="submit">
+</form>
+
+<h1>Bisiesto</h1>
+<form action="bis" method="POST">
+    {% csrf_token %}
+
+    Ingrese el AÑO: <input type="text" name="num1"><br><br>
+    <input type="submit">
+</form>
+
+
+{% endblock %}

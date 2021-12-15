@@ -1,0 +1,5 @@
+D:\Informatica\9no Semestre\INF-319\ExamenFinal\C#\1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Informatica\9no Semestre\INF-319\ExamenFinal\C#\1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Informatica\9no Semestre\INF-319\ExamenFinal\C#\1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Informatica\9no Semestre\INF-319\ExamenFinal\C#\1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Informatica\9no Semestre\INF-319\ExamenFinal\C#\1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

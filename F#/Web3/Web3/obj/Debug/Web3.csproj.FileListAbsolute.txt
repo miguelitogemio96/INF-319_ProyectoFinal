@@ -1,0 +1,11 @@
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\Web3.dll
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\Web3.pdb
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\PortableLibrary1.dll
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\FSharp.Core.dll
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\PortableLibrary1.pdb
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\PortableLibrary1.xml
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\FSharp.Core.xml
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\bin\es\FSharp.Core.resources.dll
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\obj\Debug\Web3.csprojResolveAssemblyReference.cache
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\obj\Debug\Web3.dll
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Web3\Web3\obj\Debug\Web3.pdb
