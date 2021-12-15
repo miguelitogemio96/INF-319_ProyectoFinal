@@ -1,0 +1,20 @@
+Proyecto Final INF-319
+
+Univ: Gemio Quispe Jose Miguel
+Ci: 10906316 lp
+
+_________________Links Github___________________
+c#:
+    https://github.com/miguelitogemio96/INF-319_ProyectoFinal/tree/main/C%23
+
+python:
+    https://github.com/miguelitogemio96/INF-319_ProyectoFinal/tree/main/Python
+
+f#:
+    https://github.com/miguelitogemio96/INF-319_ProyectoFinal/tree/main/F%23
+
+Haskell:
+    https://github.com/miguelitogemio96/INF-319_ProyectoFinal/tree/main/Haskell
+    
+Scala:
+    https://github.com/miguelitogemio96/INF-319_ProyectoFinal/tree/main/Scala

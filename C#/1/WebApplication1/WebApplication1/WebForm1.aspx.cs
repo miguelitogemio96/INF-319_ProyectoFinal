@@ -27,7 +27,6 @@ namespace WebApplication1
         }
         protected String calcular(String[] lista)
         {
-            /*List<int> resultados = new List<int>();*/
             cad = "[";
             foreach (String i in lista)
             {
